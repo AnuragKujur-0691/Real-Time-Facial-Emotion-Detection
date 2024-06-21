@@ -40,7 +40,11 @@ Download datatset from: https://www.kaggle.com/datasets/msambare/fer2013
 4. For each detected face, it extracts the region of interest
 5. Feed into the model for prediction
 6. Display the predicted emotion
+
 ##  Demo Images
+(Img/1.png)
+
+
 ## Using a virtual environment
 
 Install virtual environment:
@@ -68,7 +72,6 @@ Install python dependencies in the virtual environment:
 pip install -r requirements.txt
 ```
 
-Download pre-trained model:
 
 
 
