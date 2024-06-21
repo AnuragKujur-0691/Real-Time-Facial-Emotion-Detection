@@ -43,6 +43,8 @@ Download datatset from: https://www.kaggle.com/datasets/msambare/fer2013
 
 ##  Demo Images
 <img src="Img/1.png" width="500">
+<img src="Img/2.png" width="500">
+<img src="Img/3.png" width="500">
 
 
 ## Using a virtual environment
