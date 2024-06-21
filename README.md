@@ -42,7 +42,7 @@ Download datatset from: https://www.kaggle.com/datasets/msambare/fer2013
 6. Display the predicted emotion
 
 ##  Demo Images
-<img src="Img/1.png" width="200">
+<img src="Img/1.png" width="500">
 
 
 ## Using a virtual environment
