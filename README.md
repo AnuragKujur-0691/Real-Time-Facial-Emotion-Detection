@@ -5,6 +5,10 @@ I have created a real-time facial emotion detection application using Python on 
 emotions using deep convolutional neural network (CNN).
 
 
+##  Demo Images
+<img src="Img/1.png" width="500">
+<img src="Img/2.png" width="500">
+<img src="Img/3.png" width="500">
 
 
 ## Model
@@ -41,10 +45,6 @@ Download datatset from: https://www.kaggle.com/datasets/msambare/fer2013
 5. Feed into the model for prediction
 6. Display the predicted emotion
 
-##  Demo Images
-<img src="Img/1.png" width="500">
-<img src="Img/2.png" width="500">
-<img src="Img/3.png" width="500">
 
 
 ## Using a virtual environment
